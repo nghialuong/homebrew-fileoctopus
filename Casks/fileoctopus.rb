@@ -2,8 +2,7 @@ cask "fileoctopus" do
   version "1.0.1"
   sha256 "f0b331f7ab8dbe8d92c260fc65c98a6a9f16280f47bde14b04800843b9c27b52"
 
-  url "https://github.com/nghialuong/fileoctopus-releases/releases/download/v#{version}/FileOctopus-#{version}.dmg",
-      verified: "github.com/nghialuong/fileoctopus-releases/"
+  url "https://github.com/nghialuong/fileoctopus-releases/releases/download/v#{version}/FileOctopus-#{version}.dmg"
   name "FileOctopus"
   desc "File manager with split panes, workspaces and fast search"
   homepage "https://www.fileoctopus.com/"

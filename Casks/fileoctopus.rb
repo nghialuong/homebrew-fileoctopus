@@ -1,6 +1,6 @@
 cask "fileoctopus" do
-  version "1.1.1"
-  sha256 "8f3cad542a26da6bc53d171372f4347efe098c6468c0b56e4ac8219432a3df33"
+  version "1.1.2"
+  sha256 "70d6732b5ff3d9b5d780dd898db12ccc0f31e484ddaa68121a63247956d8b645"
 
   url "https://github.com/nghialuong/fileoctopus-releases/releases/download/v#{version}/FileOctopus-#{version}.dmg"
   name "FileOctopus"
